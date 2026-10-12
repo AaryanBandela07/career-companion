@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CareerCompanion</string>
+    <string name="title_activity_main">CareerCompanion</string>
+    <string name="package_name">com.careercompanion.app</string>
+    <string name="custom_url_scheme">com.careercompanion.app</string>
+</resources>

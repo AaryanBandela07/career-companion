@@ -1,0 +1,9 @@
+{
+  "appId": "com.careercompanion.app",
+  "appName": "CareerCompanion",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
